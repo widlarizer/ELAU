@@ -12,7 +12,7 @@
 // - Paul Scheffler <paulsc@iis.ee.ethz.ch>
 //
 // Description :
-// Multiplier for unsigned numbers (Brown) using carry-save adder and
+// Multiplier for unsigned numbers (Braun) using carry-save adder and
 // final adder.
 // P = X*Y
 

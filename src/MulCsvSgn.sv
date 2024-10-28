@@ -13,7 +13,7 @@
 //
 // Description :
 // Multiplier for signed numbers with one input operand and the
-// result in carry-save number representation (Brown). First adds two
+// result in carry-save number representation (Braun). First adds two
 // numbers, then multiplies the result with the multiplicand without
 // performing final addition. Result is only valid if sum of
 // carry-save input operands does not overflow.

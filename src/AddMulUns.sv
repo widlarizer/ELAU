@@ -12,7 +12,7 @@
 // - Paul Scheffler <paulsc@iis.ee.ethz.ch>
 //
 // Description :
-// Adder-multiplier for unsigned numbers (Brown). First adds two numbers, then
+// Adder-multiplier for unsigned numbers (Braun). First adds two numbers, then
 // multiplies the result with the multiplicand. Can be used for multiplication
 // with an input operand in carry-save number format. Result is only valid if
 // sum does not overflow.

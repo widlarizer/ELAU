@@ -12,7 +12,7 @@
 // - Paul Scheffler <paulsc@iis.ee.ethz.ch>
 //
 // Description :
-// Multiplier-adder for unsigned numbers (Brown). First multiplies two numbers,
+// Multiplier-adder for unsigned numbers (Braun). First multiplies two numbers,
 // then adds an additional operand to the result.
 // P = (X*Y) +A
 
